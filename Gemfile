@@ -4,6 +4,7 @@ source "https://rubygems.org"
 ruby '2.2.2'
 
 # gem "rails"
+gem 'rack'
 gem 'rspec'
 gem 'capybara'
 gem 'sinatra'
